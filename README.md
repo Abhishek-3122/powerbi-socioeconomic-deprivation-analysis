@@ -10,6 +10,10 @@ and identification of priority areas for intervention.
 
 ---
 
+**Project Context**  
+This project was completed as part of academic coursework and an internship (2024–2025) and is shared here for portfolio demonstration purposes.
+
+---
 ## Project Objectives
 - Analyse geographic patterns of population and deprivation
 - Compare income, employment, and education deprivation across data zones
